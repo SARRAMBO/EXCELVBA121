@@ -1,0 +1,3 @@
+# EXCELVBA121  This project focusses on automating the routine daily tasks using VBA code in the backend.Simple routine stuff like formatting and colouring headers,adding values in a column and merging all the sheets into a final excel sheet can be done using simple VBA code 
+This also provides a user interface for user to select a particular worksheet from the drop down menu,implementing a button for creating a new worksheet of desired name and binding the functionality with VBA code.
+Another button also implemented for performing operations like formatting and coloring headers,adding columns in each worksheet and merging all the sheets inside a yearly report.
